@@ -1,2 +1,2 @@
 #!/bin/bash
-cat cheat
+cat ../../etc/passwd
